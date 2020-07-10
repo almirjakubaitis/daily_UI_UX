@@ -1,2 +1,3 @@
 .git-actions.sh
 node_modules
+.gitignore
