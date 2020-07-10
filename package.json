@@ -1,0 +1,9 @@
+{
+  "name": "Daily_UI-UX",
+  "version": "1.0.0",
+  "description": "Desafios de Design & Inspirações",
+  "main": "index.js",
+  "repository": "https://github.com/almirjakubaitis/daily_UI_UX",
+  "author": "Almir R. Jakubaitis",
+  "license": "MIT"
+}
