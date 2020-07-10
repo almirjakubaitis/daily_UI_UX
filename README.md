@@ -5,8 +5,10 @@
 #### Daily UI-UX: Desafios de Design & Inspirações
 
 <blockquote>
-Daily UI-UX é uma série de desafios diários de design e inspiração de design. Aqui apresento minha visão sobre alguns temas de design e inspirações para outros desenvolvedores.
+Daily UI-UX é uma série de desafios diários de design e inspiração de design. Aqui apresento minha visão sobre alguns temas de design e inspirações para outros desenvolvedores. 
+Aqui serão disponibilizados os designs em arquivos Figma (.fig) e futuramente códigos em React.js com Typescript.
 </blockquote>
+
 
 
 
