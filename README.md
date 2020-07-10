@@ -15,9 +15,15 @@ Daily UI-UX é uma série de desafios diários de design e inspiração de desig
 
 Criar uma página de inscrição, modal, formulário ou tela de aplicativo relacionada à inscrição em algo. 
 
-![](public\daily#001\design\daily#001_signin.png)
 
-![](public\daily#001\design\daily#001_signup.png)
+<p align="center">
+  <img alt="Sign In" src=".github/daily001_signin.png" width="100%">
+</p>
+
+<p align="center">
+  <img alt="Sign Up" src=".github/daily001_signup.png" width="100%">
+</p>
+
 
 
 
