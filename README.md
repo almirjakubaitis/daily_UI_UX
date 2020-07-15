@@ -15,7 +15,7 @@ Aqui serão disponibilizados os designs em arquivos Figma (.fig) e futuramente c
 
 [![GitHub issues](https://img.shields.io/github/issues/almirjakubaitis/daily_UI_UX)](https://github.com/almirjakubaitis/daily_UI_UX/pulls)
 <space><space>
-[![GitHub Licence](https://img.shields.io/github/license/almirjakubaitis/daily_UI_UX)](LICENCE.md)<space><space>
+[![GitHub Licence](https://img.shields.io/github/license/almirjakubaitis/daily_UI_UX)](LICENSE.md)<space><space>
 [![Twitter](https://img.shields.io/twitter/url?url=https%3A%2F%2Fgithub.com%2Falmirjakubaitis%2Fdaily_UI_UX)](https://twitter.com/AlmirJakubaitis)
 
 
