@@ -50,4 +50,4 @@ Criar uma página de inscrição, modal, formulário ou tela de aplicativo relac
 ## :memo: Licença
 
 Esse projeto está sob a licença MIT. 
-Veja o arquivo [LICENSE](.github/LICENSE.md) para mais detalhes.
+Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
