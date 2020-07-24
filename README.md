@@ -36,7 +36,7 @@ Aqui serão disponibilizados os designs em arquivos Figma (.fig) e futuramente c
 
 Criar uma página de inscrição, modal, formulário ou tela de aplicativo relacionada à inscrição em algo. 
 
-- Sign in
+- Sign In
 
 <p align="center">
   <img alt="Sign In" src=".github/daily001_signin.png" width="100%">
@@ -44,7 +44,7 @@ Criar uma página de inscrição, modal, formulário ou tela de aplicativo relac
 
 
 
-- Sign out
+- Sign Up
 
 
 <p align="center">
